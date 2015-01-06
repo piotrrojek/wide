@@ -1,4 +1,4 @@
-// Copyright (c) 2015, B3log
+// Copyright (c) 2015, piotrrojek
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -29,17 +29,17 @@ import (
 	"strings"
 	"time"
 
-	"github.com/b3log/wide/conf"
-	"github.com/b3log/wide/editor"
-	"github.com/b3log/wide/event"
-	"github.com/b3log/wide/file"
-	"github.com/b3log/wide/i18n"
-	"github.com/b3log/wide/log"
-	"github.com/b3log/wide/notification"
-	"github.com/b3log/wide/output"
-	"github.com/b3log/wide/session"
-	"github.com/b3log/wide/shell"
-	"github.com/b3log/wide/util"
+	"github.com/piotrrojek/wide/conf"
+	"github.com/piotrrojek/wide/editor"
+	"github.com/piotrrojek/wide/event"
+	"github.com/piotrrojek/wide/file"
+	"github.com/piotrrojek/wide/i18n"
+	"github.com/piotrrojek/wide/log"
+	"github.com/piotrrojek/wide/notification"
+	"github.com/piotrrojek/wide/output"
+	"github.com/piotrrojek/wide/session"
+	"github.com/piotrrojek/wide/shell"
+	"github.com/piotrrojek/wide/util"
 )
 
 // Logger
